@@ -37,7 +37,7 @@ Se você quiser clonar este projeto e rodá-lo na sua própria máquina, siga os
 1. **Clone o repositório:**
    ```bash
    git clone [https://github.com/linekerdasaeve/churn-preditctor.git]
-   cd NOME_DO_SEU_REPOSITORIO
+   cd churn-preditctor.git
    
 2. **Crie um ambiente virtual (Opcional, mas recomendado):**
 	```bash
